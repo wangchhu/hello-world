@@ -1,0 +1,29 @@
+
+p{font-size:50px;
+font-weight: bold;
+color: navy;
+text-align: center;}
+
+.name{
+	font-weight: bolder;
+	font-size: 20px;
+	color:navy;
+}
+
+.header{
+	font-weight: bolder;
+	font-size: 20px;
+	color:#bf360c;
+}
+
+body{
+	background-color:yellow;
+
+}
+
+a{
+	color:blue;
+	text-decoration:none;
+	text-align:center;
+}
+
